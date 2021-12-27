@@ -1,0 +1,49 @@
+select {
+  border-style: outset;
+  border-width: 1px;
+}
+h1 {
+  font-family: "Mitr", sans-serif;
+  font-family: "Noto Sans Thai Looped", sans-serif;
+  font-family: "Mitr", sans-serif;
+}
+
+h3 {
+  font-family: "Mitr", sans-serif;
+  font-family: "Noto Sans Thai Looped", sans-serif;
+  font-family: "Mitr", sans-serif;
+  color: #1565c0;
+}
+
+label {
+  font-family: "Mitr", sans-serif;
+  font-family: "Noto Sans Thai Looped", sans-serif;
+  font-family: "Mitr", sans-serif;
+}
+
+Nav {
+  font-family: "Mitr", sans-serif;
+  font-family: "Noto Sans Thai Looped", sans-serif;
+  font-family: "Roboto", sans-serif;
+  font-family: "Mitr", sans-serif;
+  font-family: "Noto Sans Thai Looped", sans-serif;
+  font-family: "Mitr", sans-serif;
+}
+
+tr {
+  font-family: "Mitr", sans-serif;
+  font-family: "Noto Sans Thai Looped", sans-serif;
+  font-family: "Roboto", sans-serif;
+  font-family: "Mitr", sans-serif;
+  font-family: "Noto Sans Thai Looped", sans-serif;
+  font-family: "Mitr", sans-serif;
+}
+
+option {
+  font-family: "Mitr", sans-serif;
+  font-family: "Noto Sans Thai Looped", sans-serif;
+  font-family: "Roboto", sans-serif;
+  font-family: "Mitr", sans-serif;
+  font-family: "Noto Sans Thai Looped", sans-serif;
+  font-family: "Mitr", sans-serif;
+}

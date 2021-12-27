@@ -1,0 +1,38 @@
+
+
+  .PaddingDiv {
+    width: 90%;
+    margin-left: auto;
+    margin-right:auto;
+  }
+
+  .thedTop{
+    background-color: #198CFF;
+    border-radius: 10px;
+  }
+  
+  .tableResponsive {
+    font-size: 100%;
+    width: 83%;
+    border-radius: 10px;
+    margin-left: auto;
+    margin-right:auto;
+  }
+  .pagingDiv {
+    display: flex;
+    justify-content: center;
+  }
+  .paging {
+    font-size: 80%;
+    width: 50px;
+  }
+  .theadAdmin {
+    background-color: #f1f1f1;
+    color: #198CFF;
+    font-size: 22px;
+  }
+.tdStudent{
+  background-color: #ffffff;
+  color: rgb(0, 0, 0);
+  font-size: 19px;
+}

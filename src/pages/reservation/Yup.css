@@ -1,0 +1,25 @@
+.error{
+    color: red;
+    margin-bottom: -30px;
+}
+select{
+    padding: 5px;
+    border-radius: 15px;
+    border: none;
+    margin-left: 5px;
+    margin-top: 10px;
+    margin-bottom: 14px;
+  }
+  
+.But{
+  color: black;
+  font-size: 16px;
+  padding: 10px 25px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  border-radius: 10px;
+  background-color: rgb(63, 172, 235);
+  color: white;
+}
